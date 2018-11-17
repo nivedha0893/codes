@@ -1,0 +1,5 @@
+emmet
+sublimecodeintel
+material theme
+sidebar enhancements
+javatar
